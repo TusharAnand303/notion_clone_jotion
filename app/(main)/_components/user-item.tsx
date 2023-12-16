@@ -10,6 +10,7 @@ import {
   DropdownMenuTrigger,
 } from "@/components/ui/dropdown-menu";
 import { SignOutButton, useUser } from "@clerk/clerk-react";
+import { ModeToggle } from "@/components/mode-toggle";
 
 const UserItem = () => {
 
